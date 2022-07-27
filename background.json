@@ -43,5 +43,50 @@
 "imagem":"https://loriviana.github.io/business-card-api/imagem/09.jpg",
   "descricao":"Cartão de Visita - Rosa",
   "cor": "#a10377"
-}
+},
+ {"id":10,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/10.jpg",
+  "descricao":"Rosas e Folhas",
+  "cor": "#440433"
+},
+  {"id":11,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/11.jpg",
+  "descricao":"Cartão de Visita - Moda",
+  "cor": "#444444"
+},
+ {"id":12,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/12.jpg",
+  "descricao":"Cartão de Visita - Design Moda 1",
+  "cor": "#FFFFFF"
+},
+ {"id":13,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/13.webp",
+  "descricao":"Cartão de Visita - Design Moda 2",
+  "cor": "#000000"
+},
+ {"id":14,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/14.webp",
+  "descricao":"Cartão de Visita - Confeitaria 1",
+  "cor": "#6A07C9"
+},
+ {"id":15,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/15.webp",
+  "descricao":"Cartão de Visita - Confeitaria 2",
+  "cor": "#FFFFFF"
+},
+ {"id":16,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/16.jpg",
+  "descricao":"Cartão de Visita - Confeitaria 3",
+  "cor": "#FFFFFF"
+},
+ {"id":17,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/17.jpg",
+  "descricao":"Cartão de Visita - Confeitaria 4",
+  "cor": "#FFFFFF"
+},
+ {"id":18,
+"imagem":"https://loriviana.github.io/business-card-api/imagem/18.jpg",
+  "descricao":"Cartão de Visita - Confeitaria 5",
+  "cor": "#ffffff"
+} 
 ]
