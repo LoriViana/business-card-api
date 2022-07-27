@@ -1,38 +1,47 @@
 [
 {"id":1,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/01.jpg",
- "descricao":"Cartão de Visita - Abstrato Azul"
+ "descricao":"Cartão de Visita - Abstrato Azul",
+ "cor": "#081e54"
 },
 {"id":2,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/02.jpg",
- "descricao":"Cartão de Visita - Abstrato Azul Anil"
+ "descricao":"Cartão de Visita - Abstrato Azul Anil",
+ "cor": "#010714"
 },
 {"id":3,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/03.jpg",
- "descricao":"Cartão de Visita - Azul Elegante"
+ "descricao":"Cartão de Visita - Azul Elegante",
+ "cor": "#081e54"
 },
 {"id":4,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/04.png",
- "descricao":"Cartão de Visita - Elegante"
+ "descricao":"Cartão de Visita - Elegante",
+ "cor": "#0716b3"
 },
 {"id":5,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/05.jpg",
- "descricao":"Cartão de Visita - Abstrato Vermelho"
+ "descricao":"Cartão de Visita - Abstrato Vermelho",
+ "cor": "#036352"
 },
 {"id":6,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/06.jpg",
- "descricao":"Cartão de Visita - Design de Moda"
+ "descricao":"Cartão de Visita - Design de Moda",
+"cor": "#150E18" 
 },
 {"id":7,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/07.jpg",
- "descricao":"Cartão de Visita - Preto e Dourado"
+ "descricao":"Cartão de Visita - Preto e Dourado",
+ "cor": "#D2BFD2"
 },
 {"id":8,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/08.jpg",
- "descricao":"Cartão de Visita - Abstrato Rosa"
+ "descricao":"Cartão de Visita - Abstrato Rosa",
+ "cor": "#070508"
 },
  {"id":9,
 "imagem":"https://loriviana.github.io/business-card-api/imagem/09.jpg",
-  "descricao":"Cartão de Visita - Rosa"
+  "descricao":"Cartão de Visita - Rosa",
+  "cor": "#a10377"
 }
 ]
